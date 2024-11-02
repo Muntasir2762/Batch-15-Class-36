@@ -1,0 +1,8 @@
+
+createElement('')
+append
+prepend
+appendChild
+
+querySelector()
+insertBefore(element, beforeElement)
